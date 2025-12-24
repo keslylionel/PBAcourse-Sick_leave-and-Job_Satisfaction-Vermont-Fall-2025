@@ -10,7 +10,7 @@ Other participants ; 方喻萱(Yu-Hsuan Fang) and 吳睿芸 (Jui-Yun Wu).
 originally found at https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/UDMSIR 
 
 
-**copie comforme of the ReadMe found on dataverse**
+**Here is a copie comforme of the ReadMe found on dataverse :**
 
 
 
